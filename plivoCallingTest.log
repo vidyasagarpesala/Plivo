@@ -1,0 +1,12 @@
+2021-07-28 17:03:47 INFO  PlivoDriver:32 - Creating driver session
+2021-07-28 17:04:00 INFO  PlivoDriver:49 - Android driver is created
+2021-07-28 17:04:01 INFO  TestCalling:41 - Test case starts
+2021-07-28 17:04:04 INFO  LoginPage:43 - username and password is entered
+2021-07-28 17:04:08 INFO  LoginPage:47 - Home page is displayed
+2021-07-28 17:04:10 INFO  LoginPage:54 - call to callee is initiated
+2021-07-28 17:04:14 INFO  LoginPage:49 - Verifying out going call screen
+2021-07-28 17:04:17 INFO  LoginPage:61 - Verifying active call screen
+2021-07-28 17:04:31 INFO  LoginPage:78 - ended the call
+2021-07-28 17:04:34 INFO  LoginPage:47 - Home page is displayed
+2021-07-28 17:04:34 INFO  TestCalling:49 - Test case ends
+2021-07-28 17:04:34 INFO  LoginPage:51 - ended the call
