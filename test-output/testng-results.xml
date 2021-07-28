@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23488" started-at="2019-07-24T11:16:21Z" finished-at="2019-07-24T11:16:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23488" started-at="2019-07-24T11:16:21Z" finished-at="2019-07-24T11:16:45Z">
+      <class name="com.plivo.TestCalling">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.plivo.TestCalling@3b088d51]" name="beforeTest" is-config="true" duration-ms="12" started-at="2019-07-24T11:16:21Z" finished-at="2019-07-24T11:16:21Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.plivo.TestCalling@3b088d51]" name="beforeClass" is-config="true" duration-ms="16255" started-at="2019-07-24T11:16:21Z" finished-at="2019-07-24T11:16:37Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TestLoginScenario()[pri:0, instance:com.plivo.TestCalling@3b088d51]" name="TestLoginScenario" duration-ms="7209" started-at="2019-07-24T11:16:37Z" finished-at="2019-07-24T11:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginScenario -->
+      </class> <!-- com.plivo.TestCalling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
